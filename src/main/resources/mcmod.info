@@ -1,0 +1,21 @@
+[
+{
+    "modid": "LetsModReboot",
+    "name": "Lets Mod Reboot",
+    "description": "Pahimar's Let's Mod Reboot Series. Follow along on YouTube",
+    "version": "1.0",
+    "mcversion": "1.7.2",
+    "url": "http://ocsnet.com",
+    "updateUrl": "http://ocsnet.com/updates",
+    "authorList": [
+        "Brett_the_Gamer"
+    ],
+    "credits": "What you want Credit? A mod isn't enough?",
+    "logofile": "",
+    "screenshots": [
+    ],
+    "parent": "",
+    "dependencies": [
+    ]
+}
+]
